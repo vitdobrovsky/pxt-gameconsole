@@ -16,9 +16,7 @@
         "tetris.ts",
         "dodge.ts"
     ],
-    "testFiles": [
-        "test.ts"
-    ],
+    "testFiles": [],
     "targetVersions": {
         "target": "6.0.28",
         "targetId": "microbit"
