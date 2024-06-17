@@ -1,24 +1,30 @@
+# mc:bit Herní Konzole
 
-> Open this page at [https://vitdobrovsky.github.io/pxt-gameconsole/](https://vitdobrovsky.github.io/pxt-gameconsole/)
+**Součástky a tutoriál na postavení:** [zde](https://github.com/microbit-cz/microbit-gameconsole-case.git)
 
-## Use as Extension
+## HRY
+## Ping Pong
+- **multiplayer**
 
-This repository can be added as an **extension** in MakeCode.
+    <iframe width="600" height="400" src="https://www.youtube.com/embed/2jwvNz2hKBk" title="Raego feat. Hell Návrátilová - AHOJ (OFFICIAL MUSIC VIDEO)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-* open [https://makecode.microbit.org/](https://makecode.microbit.org/)
-* click on **New Project**
-* click on **Extensions** under the gearwheel menu
-* search for **https://github.com/vitdobrovsky/pxt-gameconsole** and import
+### OVLÁDÁNÍ:
+**levý IR sensor**: pohybuje levou pálkou
+**pravý IR sensor**: pohybuje pravou pálkou
 
-## Edit this project
+## Tetris
+- **singleplayer**
 
-To edit this repository in MakeCode.
+    <iframe width="600" height="400" src="https://www.youtube.com/embed/2jwvNz2hKBk" title="Raego feat. Hell Návrátilová - AHOJ (OFFICIAL MUSIC VIDEO)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-* open [https://makecode.microbit.org/](https://makecode.microbit.org/)
-* click on **Import** then click on **Import URL**
-* paste **https://github.com/vitdobrovsky/pxt-gameconsole** and click import
+### OVLÁDÁNÍ:
+**naklánění konzole**: pohybuje tečku (pravo x levo)
 
-#### Metadata (used for search, rendering)
+## Dodge!
+- **singleplayer**
 
-* for PXT/microbit
-<script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
+    <iframe width="600" height="400" src="https://www.youtube.com/embed/2jwvNz2hKBk" title="Raego feat. Hell Návrátilová - AHOJ (OFFICIAL MUSIC VIDEO)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+ 
+ ### OVLÁDÁNÍ:
+ **mc:bit tlačítko A:** pohybuje hráče do leva
+ **mc:bit tlačítko B:** pohybuje hráče do prava
