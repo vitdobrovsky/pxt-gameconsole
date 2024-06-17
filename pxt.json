@@ -1,0 +1,31 @@
+{
+    "name": "herni konzole",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "microphone": "*",
+        "WhaleySansFont": "github:makecode-extensions/whaleysansfont#v1.1.0"
+    },
+    "files": [
+        "main.ts",
+        "README.md",
+        "menu.ts",
+        "ui.ts",
+        "pong.ts",
+        "tetris.ts",
+        "dodge.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "6.0.28",
+        "targetId": "microbit"
+    },
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "tsprj",
+    "languageRestriction": "javascript-only"
+}
