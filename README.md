@@ -11,15 +11,13 @@ když se micro:bit zapne, ukáže se vám hlavní menu, kde si vybíraté jedu z
  
  **stisk tlačítek najednou:** spustit hru
 
- [OVLÁDÁNÍ MENU](https://www.youtube.com/watch?v=ZDZI1P_w0DE)
-
 
 
 ## HRY
 ## Ping Pong
 - **multiplayer**
   
-[PING PONG GAMEPLAY](https://www.youtube.com/watch?v=ZDZI1P_w0DE)
+[PING PONG GAMEPLAY](https://www.youtube.com/watch?v=CabBjJQ17XQ)
 
 ### OVLÁDÁNÍ:
 **levý IR sensor**: pohybuje levou pálkou
@@ -30,7 +28,7 @@ když se micro:bit zapne, ukáže se vám hlavní menu, kde si vybíraté jedu z
 ## Tetris
 - **singleplayer**
 
-[PING PONG GAMEPLAY](https://www.youtube.com/watch?v=ZDZI1P_w0DE)
+[TETRIS GAMEPLAY](https://www.youtube.com/watch?v=nFPyBgG90ec)
 
 ### OVLÁDÁNÍ:
 **naklánění konzole**: pohybuje tečku (pravo x levo)
@@ -40,7 +38,7 @@ když se micro:bit zapne, ukáže se vám hlavní menu, kde si vybíraté jedu z
 ## Dodge!
 - **singleplayer**
 
-[PING PONG GAMEPLAY](https://www.youtube.com/watch?v=ZDZI1P_w0DE)
+[DODGE! GAMEPLAY](https://www.youtube.com/watch?v=JgwfLoifEi4)
 
  ### OVLÁDÁNÍ:
  **mc:bit tlačítko A:** pohybuje hráče do leva
